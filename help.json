@@ -1,0 +1,20 @@
+{
+  "project": {
+    "name": "dash",
+    "url": "https://sup.moodrain.cn/dash-example",
+    "action_mode": "query/path, ( only query supported now"
+  },
+  "actions": {
+    "user": {
+      "note": "示例接口",
+      "resType": "json",
+      "param": {
+        "name": {
+          "type": "string",
+          "required": true,
+          "note": "示例参数 用户名 查询条件"
+        }
+      }
+    }
+  }
+}

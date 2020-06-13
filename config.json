@@ -1,0 +1,18 @@
+{
+  "database": {
+    "default": {
+      "host": "localhost",
+      "db"  : "dash",
+      "type": "mysql",
+      "user": "",
+      "pass": ""
+    },
+    "sqlite": {
+      "host": "localhost",
+      "db"  : "database.sqlite",
+      "type": "sqlite",
+      "user": "",
+      "pass": ""
+    }
+  }
+}

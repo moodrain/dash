@@ -1,0 +1,9 @@
+{
+    "name": "moodrain/dash",
+    "type": "library",
+    "description": "a simple mvc framework with moodrain",
+    "license": "MIT",
+    "require": {
+        "moodrain/moodrain": "dev-master"
+    }
+}
